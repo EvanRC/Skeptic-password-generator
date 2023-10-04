@@ -1,3 +1,4 @@
+![Skeptic_Password-Generator](https://github.com/EvanRC/Skeptic-password-generator/assets/124648885/1f81a0c9-ec1b-4fd6-9d2d-e783d47cf478)
 
 
 ## Description: Added upon existing code to create a functional password generator.
@@ -19,7 +20,7 @@ N/A
 Please refer to license in the repo.
 
 ## Website URL:
-https://evanrc.github.io/Wired-Password-Generator/
+ https://evanrc.github.io/Skeptic-password-generator/
 
 ## Code ScreenShot:
-
+![image](https://github.com/EvanRC/Skeptic-password-generator/assets/124648885/35965427-5ebb-4ce5-9b74-634ff2b9b897)
