@@ -1,7 +1,6 @@
 ![Skeptic_Password-Generator](https://github.com/EvanRC/Skeptic-password-generator/assets/124648885/1f81a0c9-ec1b-4fd6-9d2d-e783d47cf478)
 
 
-## Description: Added upon existing code to create a functional password generator.
 
 # Noted Code additions:
 - Added a function to the Javascript to generate a password.
